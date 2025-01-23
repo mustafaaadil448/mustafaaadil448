@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Mern-Stack**
 
-- 👨‍💻 All of my projects are available at [https://github.com/mustafaaadil448](https://github.com/mustafaaadil448)
+- 👨‍💻 All of my projects are available at (https://mustafaaadil448.github.io/My_Portfolio/)
 
 - 💬 Ask me about **mdmustafa8210@gmail.com**
 
