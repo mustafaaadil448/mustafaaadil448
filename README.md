@@ -1,12 +1,12 @@
 ![logo](https://github.com/mustafaaadil448/mustafaaadil448/blob/main/Clean%20Modern%20Personal%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Md Mustufa Ansari</h1>
-<h3 align="center">A passionate frontend developer👨‍💻 from India❤️</h3>
+<h3 align="center">A passionate Full Stack developer👨‍💻 from India❤️</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mustafaaadil448&label=Profile%20views&color=0e75b6&style=flat" alt="mustafaaadil448" /> </p>
 
-- 🌱 I’m currently learning **Mern-Stack**
+- 🌱 I’m currently learning **New techStack**
 
 - 👨‍💻 All of my projects are available at (https://mustafaaadil448.github.io/My_Portfolio/)
 
